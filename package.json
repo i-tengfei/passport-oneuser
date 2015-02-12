@@ -1,0 +1,16 @@
+{
+  "name": "passport-oneuser",
+  "version": "1.0.4",
+  "description": "OneUser passport.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/mrtone/passport-oneuser.git",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "passport-oauth": "^1.0.0",
+    "request": "^2.51.0"
+  }
+}
